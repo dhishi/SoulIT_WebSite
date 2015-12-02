@@ -133,6 +133,8 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Img\Projeto2.jpg" />
+    <Content Include="Img\Projeto1.jpg" />
     <Content Include="Img\Slide3.JPG" />
     <Content Include="Img\Slide4.JPG" />
     <Content Include="Img\Slide5.JPG" />
@@ -169,6 +171,7 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\View.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

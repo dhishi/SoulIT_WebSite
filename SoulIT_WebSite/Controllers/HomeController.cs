@@ -10,7 +10,13 @@ namespace SoulIT_WebSite.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Title = "Titulo";
             return View();
+        }
+
+        public ActionResult Teste()
+        {
+            return View("Teste");
         }
 
         public ActionResult About()
